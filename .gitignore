@@ -1,0 +1,16 @@
+# Java compiled files
+*.class
+
+# Runtime game data
+game_stats.txt
+
+# BlueJ generated files
+*.ctxt
+
+# IDE / editor files
+.idea/
+.vscode/
+
+# Operating system files
+.DS_Store
+Thumbs.db
